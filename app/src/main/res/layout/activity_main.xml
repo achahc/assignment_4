@@ -14,7 +14,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="                        2022041021 윤혜준"
+            android:text="                        2022041030 안치현"
             android:layout_gravity="center"
             android:textSize="20dp"></TextView>
         <FrameLayout
@@ -27,7 +27,7 @@
                 android:id="@+id/dog"
                 android:layout_width="418dp"
                 android:layout_height="match_parent"
-                android:src="@drawable/dog"></ImageView>
+                android:src="@drawable/Dog"></ImageView>
 
             <ImageView
                 android:id="@+id/cat"
